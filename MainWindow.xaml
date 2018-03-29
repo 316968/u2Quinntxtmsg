@@ -10,7 +10,8 @@
         <TextBox x:Name="txtInput" Text="Text" TextWrapping="Wrap" AcceptsReturn="True"/>
         <Button x:Name="btnRun" Content="Run" Click="btnRun_Click"/>
         <Label x:Name="lblOutput">
-            <TextBlock>Translation Tabel<LineBreak/>CU<LineBreak/>:-)<LineBreak/>:-(<LineBreak/>;-)<LineBreak/>:-P<LineBreak/>(˜.˜)<LineBreak/>TA<LineBreak/>CCC<LineBreak/>CUZ<LineBreak/>TY<LineBreak/>YW<LineBreak/>TTYL</TextBlock></Label>
+            <TextBlock>Translation Table<LineBreak/>CU<LineBreak/>:-)<LineBreak/>:-(<LineBreak/>;-)<LineBreak/>:-P<LineBreak/>(˜.˜)<LineBreak/>TA<LineBreak/>CCC<LineBreak/>CUZ<LineBreak/>TY<LineBreak/>YW<LineBreak/>TTYL</TextBlock>
+        </Label>
     </StackPanel>
-    
+
 </Window>
